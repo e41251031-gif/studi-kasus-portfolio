@@ -1,0 +1,9 @@
+{
+  "name": "POLIJE Student Portfolio",
+  "short_name": "Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0D47A1",
+  "theme_color": "#0D47A1",
+  "description": "Aplikasi portofolio mahasiswa POLIJE"
+}
